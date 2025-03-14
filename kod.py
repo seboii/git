@@ -9,3 +9,4 @@ def fibonacci(n):
 num = int(input("Fibonacci dizisinin eleman sayısını girin: "))
 
 print("Fibonacci Dizisi:", fibonacci(num))
+//bunu düzelt olum
